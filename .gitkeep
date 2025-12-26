@@ -1,0 +1,2 @@
+# This directory stores gesture training data
+# Run collect_gestures.py to generate gesture data files
